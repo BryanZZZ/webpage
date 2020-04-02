@@ -1,0 +1,21 @@
+/* This is my style sheet */
+
+#bgm audio{
+    display: none;
+}
+
+#backToTop a{
+	text-decoration:show;
+}
+
+#sitemap a {
+	text-decoration:none;
+}
+
+#sitemap a {
+	display:inline;
+}
+
+#feedback a {
+    text-decoration:none;
+}
